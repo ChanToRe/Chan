@@ -1,4 +1,5 @@
-#대퇴골의 길이(length)를 이용하여 신장을 구할 수 있습니다
+#femur length를 이용하여 tall을 추정
+
 #Male
 def M_pearson(number):
     result = 81.306 + 1.880 * number
